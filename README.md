@@ -8,7 +8,7 @@
 ## 제작 인원
 |팀장|팀원|팀원|팀원|팀원|
 |--|--|--|--|--|
-|https://avatars.githubusercontent.com/u/63435073?v=4|ㄴㅇㄹ|ㄴㅇ|ㄴㅇㄹ|ㄴㅇㄹ|
+|![이미지](https://avatars.githubusercontent.com/u/63435073?v=4)|ㄴㅇㄹ|ㄴㅇ|ㄴㅇㄹ|ㄴㅇㄹ|
 
 
 # 사용언어
