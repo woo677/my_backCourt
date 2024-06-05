@@ -8,7 +8,8 @@
 ## 제작 인원
 |팀장|팀원|팀원|팀원|팀원|
 |:-:|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/63435073?v=4" width="50px" height="50px"/>|ㄴㅇㄹ|ㄴㅇ|ㄴㅇㄹ|ㄴㅇㄹ|
+|<img src="https://avatars.githubusercontent.com/u/63435073?v=4" width="50px" height="50px"/>|
+|ㄴㅇ|ㄴㅇㄹ|ㄴㅇㄹ|
 
 
 # 사용 비중이 높은 언어
