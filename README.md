@@ -9,7 +9,7 @@
 |팀장|팀원|팀원|팀원|팀원|
 |:-:|:-:|:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/77182293?v=4" width="50px" height="50px"/>|<img src="https://avatars.githubusercontent.com/u/157499897?v=4" width="50px" height="50px"/>|<img src="https://avatars.githubusercontent.com/u/167273720?v=4" width="50px" height="50px"/>|<img src="https://avatars.githubusercontent.com/u/167273795?v=4" width="50px" height="50px"/>|<img src="https://avatars.githubusercontent.com/u/63435073?v=4" width="50px" height="50px"/>|
-|[팀장 깃허브](https://github.com/eogns22222)|
+|[팀장 깃허브](https://github.com/eogns22222)|[팀원 깃허브](https://github.com/apg021067)|[팀원 깃허브](https://github.com/min0eda)|[팀원 깃허브](https://github.com/tmdals9781)|[팀원 깃허브](https://github.com/woo677)|
 
 
 
