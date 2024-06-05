@@ -12,7 +12,7 @@
 
 
 
-[dflsk](https://github.com/eogns22222)
+[팀장 깃허브](https://github.com/eogns22222)
 
 
 
